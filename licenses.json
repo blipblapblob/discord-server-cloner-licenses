@@ -798,5 +798,30 @@
     "mjcD0rFfgJasmO3M": {
         "expiry_date": "2025-04-11T20:21:05.387970",
         "hwid": null
+    },
+    "ZL24O15UA8voOKX8": {
+        "expiry_date": null,
+        "hwid": null,
+        "type": "Lifetime"
+    },
+    "kdEHP6DcbBGtcvcQ": {
+        "expiry_date": null,
+        "hwid": null,
+        "type": "Lifetime"
+    },
+    "t8DsxXh8hcppHSGr": {
+        "expiry_date": null,
+        "hwid": null,
+        "type": "Lifetime"
+    },
+    "D6DJH5eCPPPdeUaM": {
+        "expiry_date": null,
+        "hwid": null,
+        "type": "Lifetime"
+    },
+    "3DLvBuhmbPcRiLJB": {
+        "expiry_date": null,
+        "hwid": null,
+        "type": "Lifetime"
     }
 }
