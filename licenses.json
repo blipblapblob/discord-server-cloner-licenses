@@ -152,7 +152,8 @@
         "expiry_date": null
     },
     "23065e1d-321d-49ec-9667-c32fd98250ec": {
-        "expiry_date": "2025-04-10T22:37:25.386272"
+        "expiry_date": "2025-04-10T22:37:25.386272",
+        "hwid": "366e4d672d102a46dd3ad7159f0817808dc0edf868c8b314a15fb1b062fbc77d"
     },
     "cb60929e-d637-41b4-b1ff-3e4efef1566d": {
         "expiry_date": "2025-04-10T22:37:25.386313"
