@@ -12,5 +12,10 @@
         "expiry_date": null,
         "key_type": "Lifetime",
         "hwid": "2b8944a0-e845-547c-8693-cc89dff93ad1"
+    },
+    "aRxj5WLT08clygYQ": {
+        "expiry_date": null,
+        "key_type": "Lifetime",
+        "hwid": null
     }
 }
