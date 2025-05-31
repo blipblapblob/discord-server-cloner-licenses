@@ -32,5 +32,10 @@
         "expiry_date": "2025-06-01T23:54:26.513882Z",
         "key_type": "1day",
         "hwid": null
+    },
+    "SDam8JHoi0Q2Yv0W": {
+        "expiry_date": null,
+        "key_type": "Lifetime",
+        "hwid": null
     }
 }
