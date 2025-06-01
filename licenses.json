@@ -57,5 +57,10 @@
         "expiry_date": "2025-06-02T00:16:30.447656Z",
         "key_type": "1 Day",
         "hwid": null
+    },
+    "n7pzRGS94YrhR7O3": {
+        "expiry_date": "2025-07-01T00:18:20.821053Z",
+        "key_type": "1 Month",
+        "hwid": null
     }
 }
