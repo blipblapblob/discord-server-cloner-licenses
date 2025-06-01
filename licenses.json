@@ -37,5 +37,10 @@
         "expiry_date": null,
         "key_type": "Lifetime",
         "hwid": null
+    },
+    "qwlFEDNuGyMQdDsB": {
+        "expiry_date": "2025-06-02T00:01:21.912854Z",
+        "key_type": "1 Day",
+        "hwid": null
     }
 }
