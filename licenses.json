@@ -86,5 +86,9 @@
         "expiry_date": null,
         "key_type": "Lifetime",
         "hwid": "2b8944a0-e845-547c-8693-cc89dff93ad1"
+    },
+    "NycHtI1aJg0mbbTm": {
+        "expiry_date": "2026-02-09T17:58:53.115243",
+        "hwid": null
     }
 }
